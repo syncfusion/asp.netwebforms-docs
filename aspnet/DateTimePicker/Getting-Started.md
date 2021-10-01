@@ -13,11 +13,11 @@ This section explains briefly how to create a **DateTimePicker** in your applica
 
 ## Create your first DateTimePicker in ASP.NET	
 
-ASP.NET DateTimePicker provides support to display a calendar within a web page and allows you to pick a date and time from the calendar. In this example, you can learn how to customize the DateTimePicker in a real-time application for an appointment and to choose current time for one week. 
+[ASP.NET DateTimePicker](https://www.syncfusion.com/jquery/aspnet-web-forms-ui-controls/datetime-picker) provides support to display a calendar within a web page and allows you to pick a date and time from the calendar. In this example, you can learn how to customize the DateTimePicker in a real-time application for an appointment and to choose current time for one week. 
 
 The following screenshot illustrates the functionality of a DateTimePicker with date range of maximum one week.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 
 
@@ -82,7 +82,7 @@ Add the following styles to show the DateTimePicker control in a horizontal orde
 
 The following screenshot displays a DateTimePicker control.
 
-![](Getting-Started_images/Getting-Started_img2.png) 
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png) 
 
 
 
@@ -112,7 +112,7 @@ The following screenshot shows the output for the above code example.
 
 
 
-![](Getting-Started_images/Getting-Started_img3.png) 
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png) 
 
 
 
